@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 $LIQUID$ $TF$ 🌊 
+# 🌊 LiquidTF 🌊 
 [![liquid_tf_fish_bounded](https://github.com/LiquidTF/.github/assets/16076573/f6b218fe-2b27-479e-a05b-785df87827b4)](https://liquid.tf)
 
 
